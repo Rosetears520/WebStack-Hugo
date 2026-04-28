@@ -1,627 +1,673 @@
 ---
 
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+- taxonomy: "泪花花的一切"
+  icon: "far fa-star"
+  links:
+    - title: "爱发电支持"
+      logo: "https://static.afdiancdn.com/favicon.ico"
+      url: "https://afdian.com/a/rosetears"
+      description: "爱发电支持"
+    - title: "泪花花的博客"
+      logo: "https://rosetears.cn/favicon.ico"
+      url: "https://rosetears.cn/"
+      description: "泪花花的博客"
+    - title: "泪花花的b站"
+      logo: "https://favicon.im/bilibili.com?larger=true"
+      url: "https://space.bilibili.com/3493121191054300"
+      description: "泪花花的b站"
+    - title: "泪花花的小红书"
+      logo: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/1a/7d/241a7d2b-49c3-2bfb-3f9a-9e17fc0b530d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/460x0w.png"
+      url: "https://www.xiaohongshu.com/user/profile/65bcd05e000000000903ea0b"
+      description: "泪花花的小红书"
+    - title: "点击我推荐网站"
+      logo: "https://rosetears.cn/favicon.ico"
+      url: "https://rosetears.cn/recommend-mail.html"
+      description: "点击我推荐网站"
 
+- taxonomy: "Github项目推荐"
+  icon: "fas fa-code"
+  links:
+    - title: "PDF2ZH"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/Byaidu/PDFMathTranslate"
+      description: "一款好用的pdf翻译工具，翻译论文特别好用哦~"
+    - title: "PDF2ZH-NEXT"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/PDFMathTranslate/PDFMathTranslate-next"
+      description: "强烈推荐！个人认为最好用的pdf翻译工具，是pdf2zh的新版！"
+    - title: "zotero-pdf2zh"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/guaguastandup/zotero-pdf2zh"
+      description: "可以在zotero中使用pdf2zh哦~"
+    - title: "docutranslate"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/xunbu/docutranslate"
+      description: "开源的多文档翻译工具~"
+    - title: "Listen 1 音乐播放器"
+      logo: "https://favicon.im/listen1.github.io?larger=true"
+      url: "https://listen1.github.io/listen1/"
+      description: "搜索和播放歌曲"
+    - title: "GitHub Explore"
+      logo: "https://favicon.im/github.com?larger=true"
+      url: "https://github.com/explore"
+      description: "官方精选主题与合集，快速发现优质项目与话题。"
+    - title: "GitHub Trending"
+      logo: "https://favicon.im/github.com?larger=true"
+      url: "https://github.com/trending"
+      description: "按日/周/月查看热门仓库与开发者，追踪趋势。"
+    - title: "OSS Insight"
+      logo: "https://ossinsight.io/favicon.png"
+      url: "https://ossinsight.io/"
+      description: "基于 GitHub 事件数据的可视化分析与排行榜，洞察开源趋势。"
+    - title: "BettaFish"
+      logo: "https://favicon.im/github.com?larger=true"
+      url: "https://github.com/666ghj/BettaFish"
+      description: "人人可用的多Agent舆情分析助手。"
+    - title: "presentation-ai"
+      logo: "https://favicon.im/github.com?larger=true"
+      url: "https://github.com/allweonedev/presentation-ai"
+      description: "开源AI做PPT，一键生成演示文稿。"
 
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
+- taxonomy: "在线工具"
+  icon: "fas fa-tools"
+  links:
+    - title: "pdf24"
+      logo: "https://tools.pdf24.org/static/img/pageIcons/svg/default.svg?v=5cae54fd"
+      url: "https://tools.pdf24.org/zh/"
+      description: "一款在线的pdf处理工具！"
+    - title: "GitMind"
+      logo: "https://qncdn.aoscdn.com/astro/gitmind/_astro/logo.80166101.png"
+      url: "https://gitmind.cn/"
+      description: " 一款全平台在线思维导图和流程图制作软件，支持AI智能生成思维导图，提供丰富的模板和协作功能。"
+    - title: "Bigjpd"
+      logo: "https://bigjpg.com/static/css/touch-icon-ipad-retina.png"
+      url: "https://bigjpg.com/"
+      description: "使用AI深度卷积神经网络技术，智能无损放大图片，支持最大32倍放大，效果优于传统放大工具。"
+    - title: "AIGC-X"
+      logo: "https://aigcx.people.cn/AIGC-X/favicon.ico"
+      url: "https://aigcx.people.cn/AIGC-X"
+      description: "提供AIGC生成内容的疑似率检测服务，帮助用户识别AI生成的内容。"
+    - title: "沉浸式翻译"
+      logo: "https://icons.duckduckgo.com/ip3/app.immersivetranslate.com.ico"
+      url: "https://app.immersivetranslate.com/file/"
+      description: "可以翻译很多文档，也可以浏览器翻译。免费用户也有很多额度！"
+    - title: "similarsites"
+      logo: "https://www.similarsites.com/static/favicon.png"
+      url: "https://www.similarsites.com/"
+      description: "输入一个网站，寻找类似的网站"
+    - title: "fmhy"
+      logo: "https://fmhy.net/pwa_icon.png"
+      url: "https://fmhy.net/"
+      description: "互联网上最全的免费资源合集！"
+    - title: "appicons"
+      logo: "https://appicons.co/favicon.ico"
+      url: "https://appicons.co/"
+      description: "下载各app的logo图片"
+    - title: "removebg"
+      logo: "https://icons.duckduckgo.com/ip3/www.remove.bg.ico"
+      url: "https://www.remove.bg/zh"
+      description: "自动识别消除背景，五秒生成透明图，支持高清下载与批量操作。"
+    - title: "pixian"
+      logo: "https://dq2gn5p12glyq.cloudfront.net/p/assets/logos/pixian-ai-logo_20243d2bf2c0dba61b56e66cb5c4b50e.svg"
+      url: "https://pixian.ai/"
+      description: "免费在线高质量抠图，无需注册，支持处理复杂发丝与透明Logo。"
+    - title: "创可贴"
+      logo: "https://www.chuangkit.com/favicon.ico"
+      url: "https://www.chuangkit.com/koutu"
+      description: "国内AI智能抠图工具，支持批量上传处理，电商设计作图神器。"
+    - title: "Img.Upscaler"
+      logo: "https://imgupscaler.com/favicon.ico"
+      url: "https://imgupscaler.com/"
+      description: "AI智能无损放大图片，提升分辨率至4K，修复模糊噪点细节。"
+    - title: "RestorePhotos"
+      logo: "https://www.restorephotos.io/favicon.ico"
+      url: "https://www.restorephotos.io/"
+      description: "AI智能修复模糊老照片，增强人像面部细节，一键还原清晰画质。"
+    - title: "MagicStudio"
+      logo: "https://magicstudio.com/favicon-16x16.png"
+      url: "https://magicstudio.com/zh/"
+      description: "集成去背景与魔法擦除功能，一键替换背景，智能编辑图片内容。"
+    - title: "ARC腾讯修图"
+      logo: "https://favicon.im/arc.tencent.com?larger=true"
+      url: "https://arc.tencent.com/zh/ai-demos/faceRestoration"
+      description: "腾讯出品的AI修复工具，专注人像增强、动漫化及老照片还原。"
+    - title: "NB 3D Charts"
+      logo: "https://www.pslkzs.com/images/favicon.ico"
+      url: "https://www.pslkzs.com/chart/charts.php"
+      description: "在线三维图表工具，无需安装即可生成饼图、柱状图等20多种3D图表，可调整颜色样式与角度，支持下载透明PNG"
 
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
-    - term: 图标设计
-      links:
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
+- taxonomy: "配色网站"
+  icon: "fas fa-palette"
+  links:
+    - title: "AdobeColor"
+      logo: "https://color.adobe.com/favicon.ico"
+      url: "https://color.adobe.com/zh/"
+      description: "提供强大的色彩配色工具，帮助设计师生成和探索各种配色方案，广泛应用于设计项目。"
+    - title: "ColorSpace"
+      logo: "https://mycolor.space/favicon5.png"
+      url: "https://mycolor.space/"
+      description: "通过输入一个颜色，生成多组渐变色组合，帮助设计师快速找到合适的颜色过渡效果。"
+    - title: "LOL Colors"
+      logo: "https://www.webdesignrankings.com/resources/lolcolors/assets/apple-touch-icon-180x180-48f1de9e6b550647983c1342e575d663cda7c09831f879cd8eaf99d579da2a98.png"
+      url: "https://www.webdesignrankings.com/resources/lolcolors/"
+      description: "提供预设的渐变色搭配，适用于网页设计及其他视觉设计项目。"
+    - title: "Color Palette Generator"
+      logo: "https://colordrop.io/favicon.ico"
+      url: "https://colordrop.io/"
+      description: "快速生成配色方案，帮助用户为项目提供简单的颜色选择。"
+    - title: "Color Hunt"
+      logo: "https://colorhunt.co/img/color-hunt-icon-ios.png"
+      url: "https://colorhunt.co/"
+      description: "提供灵感丰富的配色库，展示大量现成的配色方案，可自由浏览和使用。"
+    - title: "My Mind Colors"
+      logo: "https://static.accelerator.net/134/0.80.0/images/apple-touch-icon.png"
+      url: "https://access.mymind.com/colors"
+      description: "提供几组渐变色，同时也是适合色盲用户的颜色搭配方案，确保视觉可访问性。"
+    - title: "中国色"
+      logo: "https://zhongguose.com/apple-touch-icon.png"
+      url: "https://zhongguose.com/"
+      description: "展示中国传统文化中的经典色彩和配色方案，适用于与传统文化相关的设计。"
+    - title: "WebGradients"
+      logo: "https://icons.duckduckgo.com/ip3/webgradients.com.ico"
+      url: "https://webgradients.com/"
+      description: "提供多种免费高质量的渐变色，适合网页设计师和开发者使用。"
+    - title: "UIGradients"
+      logo: "https://icons.duckduckgo.com/ip3/uigradients.com.ico"
+      url: "https://uigradients.com/"
+      description: "提供现代化的渐变色方案，适合用户界面设计中的配色选择。"
+    - title: "CoolHue"
+      logo: "https://webkul.github.io/coolhue/images/coolhue-logo.png"
+      url: "https://webkul.github.io/coolhue/"
+      description: "供美丽的渐变色，专为现代网页设计和UI设计提供色彩过渡效果。"
+    - title: "Lingdaima Gradient Generator"
+      logo: "https://lingdaima.com/favicon.ico"
+      url: "https://www.lingdaima.com/jianbianse/"
+      description: "帮助用户生成自定义渐变色，并提供灵活的颜色调整功能。"
+    - title: "AI Colors"
+      logo: "https://favicon.im/aicolors.co?larger=true"
+      url: "https://aicolors.co/"
+      description: "通过AI技术生成配色方案，帮助设计师在创作过程中快速获取颜色灵感。"
+    - title: "Material Theme Builder"
+      logo: "https://material-foundation.github.io/material-theme-builder/favicon.svg"
+      url: "https://m3.material.io/theme-builder"
+      description: "谷歌官方 Material 3 主题与配色生成器。"
+    - title: "ColorBrewer"
+      logo: "https://colorbrewer2.org/favicon.ico"
+      url: "https://colorbrewer2.org/"
+      description: "地图配色权威方案，含色盲友好与印刷友好选项。"
+    - title: "千图网配色表"
+      logo: "https://www.58pic.com/favicon.ico"
+      url: "https://www.58pic.com/peisebiao"
+      description: "提供丰富的配色方案和色彩搭配工具，帮助设计师快速找到合适的颜色组合"
+    - title: "EVA Design System Colors"
+      logo: "https://colors.eva.design/favicon.ico"
+      url: "https://colors.eva.design/"
+      description: "基于语义化的智能配色生成器，可自动生成完整的设计系统色板"
+    - title: "Arco Color Palette"
+      logo: "https://favicon.im/arco.design?larger=true"
+      url: "https://arco.design/palette/list"
+      description: "字节跳动开发的配色工具，主打10级色阶与颜色自定义，含14套预订色系，可导出丰富的格式"
 
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
-    - term: 谷歌插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
+- taxonomy: "公开数据"
+  icon: "fas fa-database"
+  links:
+    - title: "国家统计局"
+      logo: "https://www.google.com/s2/favicons?domain=data.stats.gov.cn&sz=128"
+      url: "https://data.stats.gov.cn/"
+      description: "中国国家统计局官方网站，提供全国各类统计数据和信息，涵盖经济、人口、社会等各个领域。"
+    - title: "世界银行公开数据"
+      logo: "https://data.worldbank.org.cn/favicon.ico?v=1.1"
+      url: "https://data.worldbank.org.cn/"
+      description: "世界银行提供的全球发展数据平台，包含各国经济、社会、环境等方面的统计数据，供研究和分析使用。"
+    - title: "新华社数据中心"
+      logo: "https://www.cnfin.com/favicon.ico"
+      url: "https://www.cnfin.com/data/macro-data/index.html"
+      description: "新华社提供的宏观经济数据中心，发布中国及全球经济、金融等领域的统计数据和分析报告。"
+    - title: "Dataset Search"
+      logo: "https://favicon.im/datasetsearch.research.google.com?larger=true"
+      url: "https://datasetsearch.research.google.com/"
+      description: "谷歌数据集搜索，聚合全网开放数据。"
+    - title: "Kaggle 数据集"
+      logo: "https://favicon.im/kaggle.com?larger=true"
+      url: "https://www.kaggle.com/datasets"
+      description: "全球数据科学社区的数据集与项目。"
+    - title: "飞桨AI Studio星河社区"
+      logo: "https://icons.duckduckgo.com/ip3/aistudio.baidu.com.ico"
+      url: "https://aistudio.baidu.com/aistudio/datasetoverview"
+      description: "百度飞桨开放数据集平台。"
+    - title: "Heywhale 和鲸"
+      logo: "https://cdn.kesci.com/favicon.ico"
+      url: "https://www.heywhale.com/home/dataset"
+      description: "数据科学社区的数据集分享与竞赛资源。"
+    - title: "天池数据集"
+      logo: "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
+      url: "https://tianchi.aliyun.com/dataset/"
+      description: "阿里云天池开放数据集与打榜评测。"
+    - title: "Our World in Data"
+      logo: "https://ourworldindata.org/apple-touch-icon.png"
+      url: "https://ourworldindata.org/"
+      description: "全球公共数据与长周期图表，开源可下载。"
+    - title: "UNdata"
+      logo: "https://data.un.org/_Images/favicon.ico"
+      url: "https://data.un.org/"
+      description: "联合国系统全球统计数据单一入口。"
+    - title: "IMF Data"
+      logo: "https://data.imf.org/favicon.ico"
+      url: "https://data.imf.org/"
+      description: "IMF 官方经济数据门户，含 WEO 等可下载数据集。"
+    - title: "OECD Data Explorer"
+      logo: "https://data-explorer.oecd.org/assets/oecd/data-explorer/images/favicon.ico"
+      url: "https://data-explorer.oecd.org/"
+      description: "经合组织权威指标库，交互式探索与可视化。"
+    - title: "Eurostat"
+      logo: "https://ec.europa.eu/eurostat/o/estat-theme-ecl/images/favicon.ico"
+      url: "https://ec.europa.eu/eurostat"
+      description: "欧盟官方统计，覆盖经济、社会与区域指标。"
+    - title: "Data.gov"
+      logo: "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/favicon.ico"
+      url: "https://www.data.gov/"
+      description: "美国联邦开放数据总入口，跨领域持续更新。"
 
+- taxonomy: "文献获取"
+  icon: "fas fa-book-open"
+  links:
+    - title: "中国知网（CNKI）"
+      logo: "https://www.cnki.net/favicon.ico"
+      url: "https://www.cnki.net/"
+      description: "中文学术全文与引文平台，期刊/学位/会议覆盖广。"
+    - title: "万方数据"
+      logo: "https://cdn.w.wanfangdata.com.cn/favicon.ico"
+      url: "https://www.wanfangdata.com.cn/"
+      description: "整合期刊、学位、会议、专利、科技报告等多类型资源的一站式平台。"
+    - title: "维普期刊"
+      logo: "https://www.cqvip.com/favicon.ico"
+      url: "https://www.cqvip.com/"
+      description: "中文期刊服务平台，覆盖大量中文科技期刊与文献检索。"
+    - title: "Web of Science"
+      logo: "https://www.webofscience.com/favicon.ico"
+      url: "https://www.webofscience.com"
+      description: "跨学科引文与检索平台，支持高质量文献发现。"
+    - title: "谷歌学术（官网）"
+      logo: "https://favicon.im/scholar.google.com?larger=true"
+      url: "https://scholar.google.com/"
+      description: "官方入口，功能完整，适合与镜像站配合查重与比对。"
+    - title: "谷歌学术镜像"
+      logo: "https://xueshu.aigrogu.com/images/favicon.ico"
+      url: "https://xueshu.aigrogu.com/"
+      description: "学术搜索入口（镜像），便于检索论文与引用。"
+    - title: "百度学术"
+      logo: "https://xueshu.baidu.com/favicon.ico"
+      url: "https://xueshu.baidu.com/"
+      description: "中文检索与聚合，提供学者主页、被引提醒等功能。"
+    - title: "必应学术"
+      logo: "https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico"
+      url: "https://www.bing.com/academic?mkt=zh-CN"
+      description: "微软提供的学术检索入口，可搜多语种文献。"
+    - title: "AMiner"
+      logo: "https://favicon.im/aminer.cn?larger=true"
+      url: "https://www.aminer.cn/"
+      description: "清华系学术搜索与学者画像，支持AI增强的检索与分析。"
+    - title: "Semantic Scholar"
+      logo: "https://cdn.semanticscholar.org/d5a7fc2a8d2c90b9/img/favicon-128.png"
+      url: "https://www.semanticscholar.org/"
+      description: "AI驱动的免费学术搜索，覆盖多学科海量论文。"
+    - title: "国家哲学社会科学文献中心（NCPSSD/NSSD）"
+      logo: "https://www.ncpssd.cn/images/favicon.ico"
+      url: "https://www.ncpssd.cn/"
+      description: "中文社科期刊与专题资源的公益平台，支持在线阅读与下载。"
+    - title: "超星学术资源"
+      logo: "https://favicon.im/ucdrs.superlib.net?larger=true"
+      url: "http://www.ucdrs.superlib.net/"
+      description: "全国图书馆参考咨询联盟入口，支持文献传递。"
+    - title: "DOAJ"
+      logo: "https://doaj.org/assets/img/favicon/favicon.ico"
+      url: "https://doaj.org/"
+      description: "开放期刊索引，直达高质量 OA 文章。"
 
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
+- taxonomy: "资源互助"
+  icon: "fas fa-hands-helping"
+  links:
+    - title: "Sci-Hub"
+      logo: "https://icons.duckduckgo.com/ip3/sci-hub.st.ico"
+      url: "https://sci-hub.st/"
+      description: "论文获取通道（绕过付费墙），请注意所在地法律与版权要求。"
+    - title: "Z-Library"
+      logo: "https://favicon.im/zlibraryzlibua.github.io?larger=true"
+      url: "https://zlibraryzlibua.github.io/p/z-library.html"
+      description: "电子书/论文影印库，存在合规风险，谨慎使用。"
+    - title: "科研通（AbleSci）"
+      logo: "https://www.google.com/s2/favicons?domain=www.ablesci.com&sz=128"
+      url: "https://www.ablesci.com/"
+      description: "文献互助平台，发起求助/应助获取所需文献。"
+
+- taxonomy: "DOI解析"
+  icon: "fas fa-link"
+  links:
+    - title: "中文DOI"
+      logo: "https://favicon.im/chinadoi.cn?larger=true"
+      url: "http://www.chinadoi.cn/portal/index.htm"
+      description: "中国 DOI 注册与解析门户。"
+    - title: "CrossRef"
+      logo: "https://www.crossref.org/favicon.ico"
+      url: "http://www.crossref.org"
+      description: "全球主要 DOI 注册机构与开放元数据基础设施。"
+    - title: "doi.org"
+      logo: "https://favicon.im/doi.org?larger=true"
+      url: "http://www.doi.org/registration_agencies.html"
+      description: "官方 DOI 解析与文档入口。"
+    - title: "DataCite Commons"
+      logo: "https://favicon.im/commons.datacite.org?larger=true"
+      url: "https://commons.datacite.org/"
+      description: "检索 DOI 元数据，关联作者、机构与资源。"
+    - title: "shortDOI"
+      logo: "https://shortdoi.org/favicon.ico"
+      url: "https://shortdoi.org/"
+      description: "将冗长 DOI 生成短链，便于引用与分享。"
+
+- taxonomy: "学术社群"
+  icon: "fas fa-users"
+  links:
+    - title: "X-MOL"
+      logo: "https://www.google.com/s2/favicons?domain=www.x-mol.com&sz=128"
+      url: "https://www.x-mol.com/?locale=zh_CN"
+      description: "理工科资讯/导航/导师信息与问答社区。"
+    - title: "Sci-Hub中文社区"
+      logo: "https://discuss.sci-hub.org.cn/assets/favicon-5zo3o15d.ico"
+      url: "https://discuss.sci-hub.org.cn/d/2575"
+      description: "围绕开放获取与下载通道的中文讨论区。"
+    - title: "ResearchGate"
+      logo: "https://icons.duckduckgo.com/ip3/www.researchgate.net.ico"
+      url: "https://www.researchgate.net/"
+      description: "学者社交与问答，联系作者获取文献。"
+
+- taxonomy: "期刊评估"
+  icon: "fas fa-chart-line"
+  links:
+    - title: "LetPub 期刊查询与分区"
+      logo: "https://icons.duckduckgo.com/ip3/www.letpub.com.cn.ico"
+      url: "https://www.letpub.com.cn/index.php?page=journalapp"
+      description: "查询影响因子、中科院分区、期刊投稿经验/评论等信息。"
+
+- taxonomy: "科研工具"
+  icon: "fas fa-flask"
+  links:
+    - title: "玻尔Bohrium"
+      logo: "https://cdn1.deepmd.net/bohrium/web/images/8c4ab8c9/browser-fav.png"
+      url: "https://bohrium.dp.tech/home"
+      description: "DP Tech 的科研数据与 AI 工具平台，多学科探索与算力支持。"
+    - title: "Dimensions"
+      logo: "https://www.google.com/s2/favicons?domain=app.dimensions.ai&sz=128"
+      url: "https://app.dimensions.ai/"
+      description: "按DOI/主题查引用量与资助/专利/政策等关联数据。"
+    - title: "From Data to Viz"
+      logo: "https://icons.duckduckgo.com/ip3/www.data-to-viz.com.ico"
+      url: "https://www.data-to-viz.com/"
+      description: "用决策树帮你选可视化图表，并给出示例与代码。"
+    - title: "OpenAlex"
+      logo: "https://openalex.org/tricon-outlined.png"
+      url: "https://openalex.org/"
+      description: "开放的学术知识图谱与检索接口，可替代传统付费引文库做探索/计量。"
+    - title: "Lens"
+      logo: "https://www.lens.org/favicon.ico"
+      url: "https://www.lens.org/"
+      description: "学术+专利一体化检索与分析，适合跨论文与专利的查新。"
+
+- taxonomy: "视觉素材"
+  icon: "far fa-images"
+  links:
+    - title: "Iconfont"
+      logo: "https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png"
+      url: "https://www.iconfont.cn/"
+      description: "阿里巴巴矢量图标库，支持在线管理与多格式下载。"
+    - title: "IconPark"
+      logo: "https://lf-iconpark-cdn-cn.bytetos.com/obj/iconpark-site/bydesign/iconparksite/logo192.png"
+      url: "https://iconpark.oceanengine.com/home"
+      description: "字节开源图标与插画库，在线调粗细/颜色/大小。"
+    - title: "Flaticon"
+      logo: "https://fps.cdnpk.net/favicons/apple-icon-144x144.png"
+      url: "https://www.flaticon.com/"
+      description: "海量矢量图标与贴纸库，多格式可用。"
+    - title: "ManyPixels"
+      logo: "https://cdn.prod.website-files.com/63a9cb71c629474d4ae334b9/64a5f701714b5fe13a08253f_favicons%201%20(2).png"
+      url: "https://www.manypixels.co/gallery"
+      description: "免费插画与矢量插画合集，风格多样。"
+    - title: "pngimg"
+      logo: "https://pngimg.com/favicon.ico"
+      url: "https://pngimg.com/"
+      description: "免费的png透明素材"
+    - title: "Animated Emoji"
+      logo: "https://favicon.im/googlefonts.github.io?larger=true"
+      url: "https://googlefonts.github.io/noto-emoji-animation/"
+      description: "Animated Emoji"
+    - title: "Subtle patterns"
+      logo: "local/subtle-patterns.svg"
+      url: "https://www.toptal.com/designers/subtlepatterns/"
+      description: "平铺背景纹理库，适合网页设计使用"
+    - title: "Transparent Textures"
+      logo: "https://www.transparenttextures.com/favicon.png"
+      url: "https://www.transparenttextures.com/"
+      description: "选择主色调生成透明纹理PNG图片"
+    - title: "freepik"
+      logo: "https://fps.cdnpk.net/favicons/apple-icon-144x144.png"
+      url: "https://www.freepik.com/"
+      description: "PSD矢量插画图库一站式资源平台"
+    - title: "unsplash"
+      logo: "https://unsplash.com/favicon.ico"
+      url: "https://unsplash.com/"
+      description: "高质量无版权摄影图片免费下载"
+    - title: "foodiesfeed"
+      logo: "https://favicon.im/foodiesfeed.com?larger=true"
+      url: "https://www.foodiesfeed.com/"
+      description: "食物摄影图库免费可商用高清素材"
+    - title: "Pixabay"
+      logo: "https://icons.duckduckgo.com/ip3/pixabay.com.ico"
+      url: "https://pixabay.com/"
+      description: "免注册可商用图库含视频素材资源"
+    - title: "visualhunt"
+      logo: "https://visualhunt.com/favicon.ico"
+      url: "https://visualhunt.com/"
+      description: "聚合图片搜索引擎，筛选功能方便"
+    - title: "摄图网"
+      logo: "https://699pic.com/favicon.ico"
+      url: "http://699pic.com/"
+      description: "国内正版图库平台，素材类型齐全"
+    - title: "花瓣网"
+      logo: "https://huaban.com/favicon.ico"
+      url: "https://huaban.com/"
+      description: "设计灵感素材收集分享社区平台"
+    - title: "包图网"
+      logo: "https://ibaotu.com/favicon.ico"
+      url: "https://ibaotu.com/?spm=uisdc"
+      description: "海量设计模板素材一键下载网站"
+    - title: "全历史"
+      logo: "https://www.allhistory.com/favicon.ico"
+      url: "https://www.allhistory.com/"
+      description: "超清历史艺术作品在线欣赏平台"
+    - title: "storyset"
+      logo: "https://storyset.com/favicon-16x16.png"
+      url: "https://storyset.com/"
+      description: "插画素材可在线改色并免费下载"
+    - title: "Undraw"
+      logo: "https://undraw.co/illustrations/safari-pinned-tab.svg"
+      url: "https://undraw.co/illustrations"
+      description: "开源插画库支持一键更换主色调"
+    - title: "Openpeeps"
+      logo: "https://cdn.prod.website-files.com/5e51b3b0337309d672efd94c/5e51ce4e2c16e82ce80d8b42_icon.png"
+      url: "https://www.openpeeps.com/"
+      description: "手绘风格人物插画PNG/SVG素材"
+    - title: "emojipedia"
+      logo: "https://emojipedia.org/favicon.ico"
+      url: "https://emojipedia.org/"
+      description: "emoji表情符号百科查询复制粘贴"
+    - title: "Icons8"
+      logo: "https://icons.duckduckgo.com/ip3/icons8.com.ico"
+      url: "https://icons8.com/"
+      description: "2D/3D图标与emoji表情下载平台"
+    - title: "ICONFINDER"
+      logo: "https://fps.cdnpk.net/favicons/apple-icon-144x144.png"
+      url: "https://www.iconfinder.com/"
+      description: "图标搜索网站分类清晰支持改色"
+    - title: "Flat-icon-design"
+      logo: "http://flat-icon-design.com/fab/apple-touch-icon-152x152.png"
+      url: "http://flat-icon-design.com/"
+      description: "长阴影扁平风格图标素材合集"
+    - title: "IconStore"
+      logo: "https://iconstore.co/assets/img/main/favicon.svg"
+      url: "https://iconstore.co/"
+      description: "免费SVG格式图标包批量下载"
+
+- taxonomy: "论文图谱"
+  icon: "fas fa-project-diagram"
+  links:
+    - title: "Inciteful"
+      logo: "https://inciteful.xyz/favicon.ico"
+      url: "https://inciteful.xyz/"
+      description: "[完全免费]基于引文网络分析构建论文关系图谱，提供论文发现和文献连接两大工具"
+    - title: "Connected Papers"
+      logo: "https://www.connectedpapers.com/favicon.ico"
+      url: "https://www.connectedpapers.com/"
+      description: "[免费版每月5个图表]生成视觉化相似论文关系图，采用力导向算法按相似度聚类排布"
+    - title: "Open Knowledge Maps"
+      logo: "https://openknowledgemaps.org/favicon.ico?v=xQz6nej7eR"
+      url: "https://openknowledgemaps.org/"
+      description: "[完全免费]基于主题关键词搜索生成主题语义聚类地图，每次可显示100篇文献"
+    - title: "ResearchRabbit"
+      logo: "https://cdn.prod.website-files.com/68367775ca3b1655a71e1698/68f169d618fea3828326bbe2_RR_icon_256.png"
+      url: "https://www.researchrabbit.ai/"
+      description: "[免费版和RR+付费订阅]可视化引文链接网络，支持Zotero集成和多论文输入"
+    - title: "Litmaps"
+      logo: "https://cdn.prod.website-files.com/6343739329c53451d4f4a69a/6387e1285e5c124dd7b95206_webclip.png"
+      url: "https://www.litmaps.com/"
+      description: "[免费版限2个图]基于引文网络的时间轴可视化工具，展示论文间引用关系演化"
+
+- taxonomy: "演示模板"
+  icon: "far fa-file-powerpoint"
+  links:
+    - title: "极简简历"
+      logo: "https://favicon.im/polebrief.com?larger=true"
+      url: "https://www.polebrief.com/template"
+      description: "在线简历模板，快速生成专业版式。"
+    - title: "Microsoft Create"
+      logo: "https://icons.duckduckgo.com/ip3/create.microsoft.com.ico"
+      url: "https://create.microsoft.com/zh-cn"
+      description: "微软官方可定制模板（PPT/文档/海报等）。"
+    - title: "OfficePLUS"
+      logo: "https://www.officeplus.cn/favicon.svg"
+      url: "https://www.officeplus.cn/"
+      description: "微软中国官方模板站，PPT/Word/Excel 模板合集。"
+
+- taxonomy: "演示插件"
+  icon: "fas fa-plug"
+  links:
+    - title: "OK插件（OneKeyTools）"
+      logo: "https://favicon.im/oktools.xyz?larger=true"
+      url: "http://oktools.xyz/"
+      description: "免费开源 PPT 增强插件，形状/配色/三维/图片批处理等。"
+
+- taxonomy: "引文格式"
+  icon: "fas fa-quote-right"
+  links:
+    - title: "MyBib"
+      logo: "https://www.mybib.com/safari-pinned-tab.svg"
+      url: "https://www.mybib.com"
+      description: "免费引文生成器，支持 MLA/APA/Chicago 等多样式。"
+
+- taxonomy: "模型榜单"
+  icon: "fas fa-trophy"
+  links:
+    - title: "LiveBench"
+      logo: "https://livebench.ai/./logo192.png"
+      url: "https://livebench.ai/#/"
+      description: "综合型 LLM 榜单，题库滚动更新。"
+    - title: "Hallucination Leaderboard"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/vectara/hallucination-leaderboard/"
+      description: "评测LLM总结时的幻觉率。"
+    - title: "LMArena"
+      logo: "https://lmarena.ai/images/favicon-rebrand.svg"
+      url: "https://lmarena.ai/"
+      description: "基于全球用户投票的模型排名，覆盖多模态场景，用户可免费浏览并使用多款大模型。"
+    - title: "Open LLM Leaderboard"
+      logo: "https://favicon.im/huggingface.co?larger=true"
+      url: "https://huggingface.co/open-llm-leaderboard"
+      description: "由 Hugging Face 维护的开源大语言模型排行榜，自动评测多任务基准，确保模型可比性和可复现性。"
+    - title: "Stanford HELM"
+      logo: "https://crfm.stanford.edu/helm/helm.svg"
+      url: "https://crfm.stanford.edu/helm/"
+      description: "斯坦福发布的“语言模型全方位评测”框架，涵盖多场景、多指标、可持续更新的透明排行榜。"
+    - title: "AlpacaEval"
+      logo: "https://raw.githubusercontent.com/tatsu-lab/alpaca_eval/main/docs/AlpacaFarm_small.png"
+      url: "https://tatsu-lab.github.io/alpaca_eval/"
+      description: "面向指令跟随的自动评测榜，使用LLM判别并提供长度控制胜率，快速近似人工偏好对比模型质量。"
+    - title: "MMLU‑Pro"
+      logo: "https://favicon.im/huggingface.co?larger=true"
+      url: "https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro"
+      description: "在原本 MMLU 基础上升级的多学科理解评测，选项从 4 选提升至 10 选、难度更大、推理成分更强。"
+    - title: "Yupp AI VIBE 模型排行榜"
+      logo: "https://yupp.ai/favicon.ico"
+      url: "https://yupp.ai/leaderboard"
+      description: "面向普通用户的 AI 模型排行榜，覆盖文字、图像与 SVG 等能力。"
+    - title: "SanityBoard"
+      logo: "https://sanityboard.lr7.dev/./apple-touch-icon.png"
+      url: "https://sanityboard.lr7.dev/"
+      description: "AI 模型+Coding Agent 评测排行榜，可以快速选择出选择应该使用哪个agent哪个模型"
+
+- taxonomy: "字体资源"
+  icon: "fas fa-font"
+  links:
+    - title: "华为字体设计指南"
+      logo: "https://icons.duckduckgo.com/ip3/developer.huawei.com.ico"
+      url: "https://developer.huawei.com/consumer/cn/doc/design-guides-V1/font-0000001157868583-V1"
+      description: "HarmonyOS 字体设计与使用指南。"
+    - title: "Sarasa Mono SC"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/starriddle/sarasa-mono-sc/blob/main/README.zh_CN.md"
+      description: "开源等宽中文，适合编程/终端。"
+    - title: "Apple 字体"
+      logo: "https://icons.duckduckgo.com/ip3/developer.apple.com.ico"
+      url: "https://developer.apple.com/fonts/"
+      description: "SF/NY 等系统字体下载与规范。"
+    - title: "LXGW WenKai"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/lxgw/LxgwWenKai/blob/main/README.md"
+      description: "开源中文字体，适合多语言文本。"
+    - title: "Cascadia Code"
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
+      url: "https://github.com/microsoft/cascadia-code"
+      description: "微软开源等宽字体，含编程连字。"
+    - title: "字体天下"
+      logo: "https://www.fonts.net.cn/favicon.ico"
+      url: "https://www.fonts.net.cn/"
+      description: "提供字体下载与在线预览服务，包含商用授权提示信息"
+    - title: "求字网"
+      logo: "https://www.qiuziti.com/image/icon.ico"
+      url: "https://www.qiuziti.com/"
+      description: "支持上传图片识别字体，提供预览与下载功能"
+    - title: "书法字体网"
+      logo: "http://www.shufaziti.com/apple-touch-icon.png"
+      url: "http://www.shufaziti.com/"
+      description: "书法字体专题合集，提供免费下载使用"
+    - title: "字体传奇"
+      logo: "https://www.ziticq.com/favicon.ico"
+      url: "http://www.ziticq.com/"
+      description: "字体设计交流社区，收录多款免费字体资源"
+    - title: "FontSpace"
+      logo: "https://icons.duckduckgo.com/ip3/www.fontspace.com.ico"
+      url: "https://www.fontspace.com/"
+      description: "海量英文字体库，支持分类筛选预览下载"
+    - title: "100font"
+      logo: "https://www.100font.com/view/img/favicon.ico"
+      url: "https://www.100font.com/"
+      description: "免费可商用字体合集，定期整理更新"
+    - title: "360查字体"
+      logo: "https://icons.duckduckgo.com/ip3/fonts.safe.360.cn.ico"
+      url: "https://fonts.safe.360.cn/"
+      description: "查询字体版权信息与可商用范围，降低侵权风险"
+    - title: "锐字工房"
+      logo: "http://www.reeji.com/_nuxt/icons/icon_512x512.e3e9fb.png"
+      url: "http://www.reeji.com/"
+      description: "潮流汉字字库与字体设计服务，偏个性化风格"
+    - title: "造字工房"
+      logo: "https://www.makefont.com/makefont/images/apple-touch-icon-114x114.png"
+      url: "https://www.makefont.com/"
+      description: "专业汉字字形设计机构，支持字体定制服务"

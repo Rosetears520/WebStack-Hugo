@@ -1,0 +1,10 @@
+# Local navigation source exports
+网站导航*.json
+网站导航*.json:Zone.Identifier
+
+# Project-local assistant memory
+memory/
+
+# Local build and browser verification artifacts
+exampleSite/public/
+.playwright-mcp/
